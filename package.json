@@ -1,0 +1,11 @@
+{
+  "name": "planter-moderator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Student-Developers-Korea/Planter-Discord-Moderation-BOT",
+  "author": "piko <parangee9706@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
