@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "database": {
+        "client": "mysql",
+        "connection": {
+            "host": "localhost",
+            "port": 3306,
+            "database": "planter",
+            "user": "planter",
+            "password": "planter"
+        }
+    }
+}
